@@ -1,12 +1,16 @@
 ## VirtualPanic Wiki
 
+#### NOTE: This project is just my freetime thing and its not done
 
-### Test
-
-```c++
-
-int main() {
-  // ...
-}
-
+```bash
+git clone https://github.com/331uw13/VirtualPanic.git 
+cd VirtualPanic
+./build.sh
 ```
+
+
+- [HelloWorld]()
+
+- [Shaders]()
+
+- [Lights]()
