@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/331uw13/VirtualPanic.git 
 cd VirtualPanic
-./build.sh
+./build.sh install
 ```
 
 
