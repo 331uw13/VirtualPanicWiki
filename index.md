@@ -40,6 +40,8 @@ g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL -lGLEW
 
 - [Lights]()
 
+- [More Effects]()
+
 - [Camera]()
 
 - [Mouse input]()
@@ -51,6 +53,8 @@ g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL -lGLEW
 - [Timers]()
 
 - [Materials]()
+
+- [Particle Systems]()
 
 - [3D PerlinNoise]()
 
