@@ -43,15 +43,17 @@ g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL
 
 - [Shaders](https://331uw13.github.io/VirtualPanicWiki/examples/shaders)
 
-- [ShapeArrays](https://331uw13.github.io/VirtualPanicWiki/examples/shape_arrays)
+- [Shape Arrays](https://331uw13.github.io/VirtualPanicWiki/examples/shape_arrays)
 
 - [Lights](https://331uw13.github.io/VirtualPanicWiki/examples/lights)
 
-- [More Effects](https://331uw13.github.io/VirtualPanicWiki/examples/more_effects)
+- [Callback Events](https://331uw13.github.io/VirtualPanicWiki/examples/callback_events)
 
 - [Mouse input](https://331uw13.github.io/VirtualPanicWiki/examples/mouse_input)
 
 - [Keyboard input](https://331uw13.github.io/VirtualPanicWiki/examples/keyboard_input)
+
+- [More Effects](https://331uw13.github.io/VirtualPanicWiki/examples/more_effects)
 
 - [Textures](https://331uw13.github.io/VirtualPanicWiki/examples/textures)
 
