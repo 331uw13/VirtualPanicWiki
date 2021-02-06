@@ -34,21 +34,27 @@ g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL -lGLEW
 ```
 ------------------------------------------
 
+**More examples:**
+
 - [Shapes]()
 
+- [Camera]()
+
 - [Shaders]()
+
+- [ShapeArrays]()
 
 - [Lights]()
 
 - [More Effects]()
-
-- [Camera]()
 
 - [Mouse input]()
 
 - [Keyboard input]()
 
 - [Textures]()
+
+- [Model Loading]()
 
 - [Timers]()
 
