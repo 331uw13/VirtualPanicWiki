@@ -1,0 +1,3 @@
+## VirtualPanic Wiki
+
+### Mouse Input
