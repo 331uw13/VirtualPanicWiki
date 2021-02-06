@@ -62,5 +62,12 @@ g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL -lGLEW
 
 - [Particle Systems]()
 
-- [3D PerlinNoise]()
+- [PerlinNoise]()
 
+- [Terrain Generation]()
+
+- [Physics]()
+
+------------------------------------------
+
+... "wow i have alot to do!"
