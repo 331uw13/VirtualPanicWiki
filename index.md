@@ -38,6 +38,8 @@ g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL
 
 **More examples:**
 
+- [Settings](https://331uw13.github.io/VirtualPanicWiki/settings)
+
 - [Shapes](https://331uw13.github.io/VirtualPanicWiki/examples/shapes)
 
 - [Camera](https://331uw13.github.io/VirtualPanicWiki/examples/camera)
