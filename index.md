@@ -37,37 +37,37 @@ g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL
 
 **More examples:**
 
-- [Shapes](https://331uw13.github.io/VirtualPanicWiki/shapes)
+- [Shapes](https://331uw13.github.io/VirtualPanicWiki/examples/shapes)
 
-- [Camera](https://331uw13.github.io/VirtualPanicWiki/camera)
+- [Camera](https://331uw13.github.io/VirtualPanicWiki/examples/camera)
 
-- [Shaders](https://331uw13.github.io/VirtualPanicWiki/shaders)
+- [Shaders](https://331uw13.github.io/VirtualPanicWiki/examples/shaders)
 
-- [ShapeArrays](https://331uw13.github.io/VirtualPanicWiki/shape_arrays)
+- [ShapeArrays](https://331uw13.github.io/VirtualPanicWiki/examples/shape_arrays)
 
-- [Lights](https://331uw13.github.io/VirtualPanicWiki/lights)
+- [Lights](https://331uw13.github.io/VirtualPanicWiki/examples/lights)
 
-- [More Effects](https://331uw13.github.io/VirtualPanicWiki/more_effects)
+- [More Effects](https://331uw13.github.io/VirtualPanicWiki/examples/more_effects)
 
-- [Mouse input](https://331uw13.github.io/VirtualPanicWiki/mouse_input)
+- [Mouse input](https://331uw13.github.io/VirtualPanicWiki/examples/mouse_input)
 
-- [Keyboard input](https://331uw13.github.io/VirtualPanicWiki/keyboard_input)
+- [Keyboard input](https://331uw13.github.io/VirtualPanicWiki/examples/keyboard_input)
 
-- [Textures](https://331uw13.github.io/VirtualPanicWiki/textures)
+- [Textures](https://331uw13.github.io/VirtualPanicWiki/examples/textures)
 
-- [Model Loading](https://331uw13.github.io/VirtualPanicWiki/model_loading)
+- [Model Loading](https://331uw13.github.io/VirtualPanicWiki/examples/model_loading)
 
-- [Timers](https://331uw13.github.io/VirtualPanicWiki/timers)
+- [Timers](https://331uw13.github.io/VirtualPanicWiki/examples/timers)
 
-- [Materials](https://331uw13.github.io/VirtualPanicWiki/materials)
+- [Materials](https://331uw13.github.io/VirtualPanicWiki/examples/materials)
 
-- [Particle Systems](https://331uw13.github.io/VirtualPanicWiki/particle_systems)
+- [Particle Systems](https://331uw13.github.io/VirtualPanicWiki/examples/particle_systems)
 
-- [PerlinNoise](https://331uw13.github.io/VirtualPanicWiki/perlin_noise)
+- [PerlinNoise](https://331uw13.github.io/VirtualPanicWiki/examples/perlin_noise)
 
-- [Terrain Generation](https://331uw13.github.io/VirtualPanicWiki/terrain_generation)
+- [Terrain Generation](https://331uw13.github.io/VirtualPanicWiki/examples/terrain_generation)
 
-- [Physics](https://331uw13.github.io/VirtualPanicWiki/physics)
+- [Physics](https://331uw13.github.io/VirtualPanicWiki/examples/physics)
 
 ------------------------------------------
 
