@@ -1,3 +1,1 @@
-## VirtualPanic Wiki
-
-### Textures
+## Textures

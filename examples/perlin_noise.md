@@ -1,4 +1,2 @@
-## VirtualPanic Wiki
-
-### Perlin Noise
+## Perlin Noise
 

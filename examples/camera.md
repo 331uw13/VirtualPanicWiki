@@ -1,3 +1,1 @@
-## VirtualPanic Wiki
-
-### Camera
+## Camera

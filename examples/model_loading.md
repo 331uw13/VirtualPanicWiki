@@ -1,4 +1,2 @@
-## VirtualPanic Wiki
-
-### Model Loading
+## Model Loading
 

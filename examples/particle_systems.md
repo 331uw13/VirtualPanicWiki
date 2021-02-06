@@ -1,3 +1,1 @@
-## VirtualPanic Wiki
-
-### Particle Systems
+## Particle Systems

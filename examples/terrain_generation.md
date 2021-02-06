@@ -1,3 +1,1 @@
-## VirtualPanic Wiki
-
-### Terrain Generation
+## Terrain Generation

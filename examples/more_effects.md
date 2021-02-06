@@ -1,3 +1,1 @@
-## VirtualPanic Wiki
-
-### More Effects
+## More Effects

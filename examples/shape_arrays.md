@@ -1,4 +1,2 @@
-## VirtualPanic Wiki
-
-### Shape Arrays
+## Shape Arrays
 

@@ -1,3 +1,1 @@
-## VirtualPanic Wiki
-
-### Keyboard Input
+## Keyboard Input
