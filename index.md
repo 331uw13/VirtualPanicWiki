@@ -2,6 +2,7 @@
 
 ### This project is just my freetime thing and its not done
 
+
 **Download and Install**
 ```bash
 git clone https://github.com/331uw13/VirtualPanic.git 
@@ -30,7 +31,7 @@ int main() {
 
 ```
 ```bash
-g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL -lGLEW
+g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL
 ```
 ------------------------------------------
 
