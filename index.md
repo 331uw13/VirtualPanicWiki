@@ -32,7 +32,7 @@ int main() {
 
 ```
 ```bash
-g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL
+g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL -ldl
 ```
 ------------------------------------------
 
@@ -68,12 +68,6 @@ g++ main.cpp -Wl,-rpath=/usr/local/lib/ -lVirtualPanic -lSDL2 -lGL
 
 - [Particle Systems](https://331uw13.github.io/VirtualPanicWiki/examples/particle_systems)
 
-- [PerlinNoise](https://331uw13.github.io/VirtualPanicWiki/examples/perlin_noise)
-
-- [Terrain Generation](https://331uw13.github.io/VirtualPanicWiki/examples/terrain_generation)
-
 - [Physics](https://331uw13.github.io/VirtualPanicWiki/examples/physics)
 
 ------------------------------------------
-
-... "wow i have alot to do!"
