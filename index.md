@@ -7,7 +7,6 @@
 ```bash
 git clone https://github.com/331uw13/VirtualPanic.git 
 cd VirtualPanic
-vim build.sh # never run stuff from the internet before checking :)
 ./build.sh install
 ```
 
